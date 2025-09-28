@@ -132,6 +132,6 @@ SpectrumScript-CC02/
 
 ## 👨‍💻 Author
 
-Developed by **@sankar5302k, @Abishekganesh-BS and @Trivikraman-TS**
+Developed by **@Abishekganesh-BS**
 
 
